@@ -1,0 +1,16 @@
+.about-container {
+    /* border: 2px solid tomato; */
+    margin-top: 20px;
+    text-align: left;
+}
+
+.about-heading {
+    font-family: 'MuseoModerno';
+    font-weight: 800;
+}
+
+.about-description {
+    font-family: 'Roboto Mono';
+    font-size: 12px;
+    font-weight:800;
+}

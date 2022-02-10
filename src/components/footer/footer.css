@@ -1,0 +1,22 @@
+.footer-container {
+    /* border: 2px solid tomato; */
+    margin-top: 10px;
+    align-content: center;
+    height: 50px;
+    /* display: grid;
+    grid-auto-flow: column; */
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer-icon {
+    /* border: 2px solid tomato; */
+    margin-right: 20px;
+    font-size: 3em;
+    opacity: 20%;
+}
+
+.facebook {
+    margin-left:12px;
+}

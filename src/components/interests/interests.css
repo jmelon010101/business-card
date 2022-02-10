@@ -1,0 +1,15 @@
+.interests-container {
+    margin-top: 10px;
+    text-align: left;
+}
+
+.interests-heading {
+    font-family: 'MuseoModerno';
+    font-weight: 800;
+}
+
+.interests-description {
+    font-family: 'Roboto Mono';
+    font-size: 12px;
+    font-weight:800;
+}
